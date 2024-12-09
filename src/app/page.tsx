@@ -89,7 +89,7 @@ export default function Home() {
       {/* Editor's Pick */}
       <section className="py-16 bg-[#fafafa]">
         <div className="container mx-auto text-center flex flex-col items-center justify-center">
-          <h2 className="text-3xl uppercase font-bold mb-3">EDITOR'S PICK</h2>
+          <h2 className="text-3xl uppercase font-bold mb-3">EDITOR&apos;S PICK</h2>
           <p className="text-md font-light mb-10">Problems trying to resolve the conflict between </p>
           <div className="w-full md:w-9/12 grid grid-cols-1 md:grid-cols-4 gap-4">
 
@@ -101,7 +101,7 @@ export default function Home() {
                     <Image
                       width={640}
                       height={640}
-                      src="/images/men.png"
+                      src="/imaes/men.png"
                       alt="Men's fashion"
                       className="w-full h-full object-cover" // Fixed height for consistency
                     />
