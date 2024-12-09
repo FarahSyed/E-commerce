@@ -101,7 +101,7 @@ export default function Home() {
                     <Image
                       width={640}
                       height={640}
-                      src="/imaes/men.png"
+                      src="/images/men.png"
                       alt="Men's fashion"
                       className="w-full h-full object-cover" // Fixed height for consistency
                     />
